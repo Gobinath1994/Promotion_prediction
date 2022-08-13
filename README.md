@@ -24,6 +24,8 @@ Since this study concerns price predictions, it's important to consider how pric
 Figure 2: Distribution of price
  
 Comparison - Machine Learning Model Performance
+<img width="454" alt="image" src="https://user-images.githubusercontent.com/101182714/184480731-e6b8eade-6c5b-4f9e-ab64-1a8b0959abb1.png">
+
  
 Figure 3: Machine Learning Model Performance comparison
 
